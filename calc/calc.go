@@ -1,10 +1,10 @@
 package calc
 
-func Add(num1, num2 int32) int32 {
+func Add(num1, num2 int) int {
         return num1 + num2
 }
 
-func Subtract(num1, num2 int32) int32 {
+func Subtract(num1, num2 int) int {
         return num1 - num2
 }
 
