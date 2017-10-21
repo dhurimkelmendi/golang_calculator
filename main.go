@@ -1,10 +1,10 @@
 package main
 
 import (
-        "calculator/calc"
 	"fmt"
 	"strconv"
 	"os"
+	"github.com/dhurimkelmendi/calculator/calc"
 )
 func main() {
 	getOperation:
